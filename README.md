@@ -1,6 +1,7 @@
 # Assignment04-Rest Blood Bank
 
 **Theme for the Group Project**
+
 The theme for the Group Project is to bring together everything you have learned this term:
 
 **1. JPA –** for model objects
