@@ -15,6 +15,7 @@ The theme for the Group Project is to bring together everything you have learned
 
 
 **General Instructions**
+
 Below is the link for a collection of instructions in this course. You do not have to do everything mentioned in them. Find what you need and simply follow those instructions.
 
 **IDE's and API's Instructions**
