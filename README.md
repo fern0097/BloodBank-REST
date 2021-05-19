@@ -1,2 +1,1 @@
-# BloodBank-REST
-REST API Project
+# Assignment04RestBloodBank
