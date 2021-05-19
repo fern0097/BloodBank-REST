@@ -18,14 +18,12 @@ The theme for the Group Project is to bring together everything you have learned
 
 Below is the link for a collection of instructions in this course. You do not have to do everything mentioned in them. Find what you need and simply follow those instructions.
 
-**IDE's and API's Instructions**
-
-If you get stuck in any of the steps below come and see me in one of the labs. Don't leave it for later.
-
 **IMPORTANT**
 
 Do not unzip anything directly in drive C:\. Windows 10 does not give modify permission directly in drive C:\.
+
 If you want it to be in drive C directly you need to adjust the security permissions.
+
 If you don't know how, just extract in any other folder such as documents and/or downloads. You can also place it in other drives if you have it like D:\.
 
 **OS**
@@ -58,7 +56,7 @@ If you don't know how, just extract in any other folder such as documents and/or
         
         3. Sort by Local ports and find the port you are looking for.
         
-        4. Then right click the application and end process or just uninstall it if you can. I do recommend uninstalling if you              can as the application might start again and you have to do this again.
+        4. Then right click the application and end process or just uninstall it if you can. I do recommend uninstalling if you can as the application might start again and you have to do this again.
     
     2. You can simply use a different port like 3307.
 
