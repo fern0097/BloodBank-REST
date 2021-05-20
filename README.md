@@ -19,14 +19,6 @@ The theme for the Group Project is to bring together everything you have learned
 
 Below is the link for a collection of instructions in this course. You do not have to do everything mentioned in them. Find what you need and simply follow those instructions.
 
-**IMPORTANT**
-
-Do not unzip anything directly in drive C:\. Windows 10 does not give modify permission directly in drive C:\.
-
-If you want it to be in drive C directly you need to adjust the security permissions.
-
-If you don't know how, just extract in any other folder such as documents and/or downloads. You can also place it in other drives if you have it like D:\.
-
 **OS**
 
 1 - This course only support windows.
