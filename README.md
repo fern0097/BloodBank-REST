@@ -1,4 +1,4 @@
-# Assignment04-Rest Blood Bank
+# Rest Blood Bank
 
 **Theme for the Group Project**
 
